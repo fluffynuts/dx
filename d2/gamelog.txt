@@ -1,8 +1,0 @@
-13:57:04.973 D2X-Rebirth v0.61 0.60.0-beta2-575-gca383c1fe76b  Nov 21 2019 14:37:33
-13:57:04.973 This is a MODIFIED version of Descent 2, based on Full Version v1.2.
-13:57:04.973 Copyright (C) 1994-1996 Parallax Software Corporation
-13:57:04.973 DESCENT is a trademark of Interplay Productions, Inc.
-13:57:04.973 Copyright (C) 1999 Peter Hawkins, 2002 Bradley Bell, 2005-2013 Christian Beckhaeuser, 2013-2017 Kp
-13:57:05.004 Using SDL_mixer library v1.2.12
-13:57:06.037 sdl-joystick: 0 joysticks
-13:57:08.190 DXX-Rebirth: OpenGL: disabling automatic GL sync since VSync is turned off
