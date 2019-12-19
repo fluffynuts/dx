@@ -1,8 +1,218 @@
-13:56:26.094 D1X-Rebirth v0.61 0.60.0-beta2-575-gca383c1fe76b  Nov 21 2019 14:37:08
-13:56:26.094 This is a MODIFIED version of Descent, based on Registered v1.5 Jan 5, 1996.
-13:56:26.094 Copyright (C) 1994, 1995 Parallax Software Corporation
-13:56:26.094 DESCENT is a trademark of Interplay Productions, Inc.
-13:56:26.094 Copyright (C) 2005-2013 Christian Beckhaeuser, 2013-2017 Kp
-13:56:26.132 Using SDL_mixer library v1.2.12
-13:56:27.137 sdl-joystick: 0 joysticks
-13:56:29.300 DXX-Rebirth: OpenGL: disabling automatic GL sync since VSync is turned off
+07:57:50.358 D1X-Rebirth v0.61 0.60.0-beta2-575-gca383c1fe76b  Nov 21 2019 14:37:08
+07:57:50.358 This is a MODIFIED version of Descent, based on Registered v1.5 Jan 5, 1996.
+07:57:50.358 Copyright (C) 1994, 1995 Parallax Software Corporation
+07:57:50.358 DESCENT is a trademark of Interplay Productions, Inc.
+07:57:50.358 Copyright (C) 2005-2013 Christian Beckhaeuser, 2013-2017 Kp
+07:57:50.390 Using SDL_mixer library v1.2.12
+07:57:50.708 sdl-joystick: 0 joysticks
+07:58:24.590 Your Laser is maxed out!
+07:58:24.590 Energy boosted to 109
+07:58:46.257 Energy boosted to 107
+07:58:46.276 Energy boosted to 119
+07:58:59.655 Energy boosted to 122
+07:59:12.851 Homing Missile!
+07:59:39.644 YELLOW Access denied
+07:59:53.626 Concussion Missile selected!
+08:00:08.039 Ship destroyed!
+08:00:10.894 BLUE Access denied
+08:00:13.812 Laser boosted to 2
+08:00:25.144 Laser boosted to 3
+08:00:25.189 Laser boosted to 4
+08:00:26.825 4 Proximity Bombs!
+08:00:26.825 Quad Lasers!
+08:00:27.129 Spreadfire Cannon!
+08:00:28.095 Concussion Missile!
+08:00:29.244 Vulcan Cannon!
+08:00:33.431 Vulcan Ammo!
+08:00:33.815 BLUE Access granted
+08:00:50.448 Your Laser is maxed out!
+08:00:50.448 Energy boosted to 99
+08:00:51.516 4 Proximity Bombs!
+08:00:52.950 Vulcan Cannon selected!
+08:00:53.986 Laser Cannon selected!
+08:00:56.688 Spreadfire Cannon selected!
+08:00:57.758 Vulcan Cannon selected!
+08:00:58.874 Laser Cannon selected!
+08:01:32.108 You already have the Vulcan Cannon!
+08:01:32.108 You already have 10000 Vulcan Rounds!
+08:01:34.726 2 Proximity Bombs!
+08:01:37.312 You already have the Vulcan Cannon!
+08:01:37.312 You already have 10000 Vulcan Rounds!
+08:01:51.559 Shield boosted to 93
+08:01:55.513 Shield boosted to 105
+08:01:55.616 Your Laser is maxed out!
+08:01:55.616 Energy boosted to 98
+08:02:51.286 Homing Missile!
+08:03:07.535 Shield boosted to 116
+08:03:25.403 Energy boosted to 68
+08:03:32.844 Energy boosted to 74
+08:03:49.045 Concussion Missile selected!
+08:04:01.639 4 Homing Missiles!
+08:04:44.049 Proximity Bomb selected!
+08:04:45.051 Homing Missile selected!
+08:05:08.973 Concussion Missile selected!
+08:05:44.825 Concussion Missile!
+08:05:45.577 Energy boosted to 108
+08:05:52.284 You cannot open this door.
+08:06:01.059 Energy boosted to 112
+08:06:04.446 Ship destroyed!
+08:06:13.755 No secondary weapons available!
+08:06:16.307 Shield boosted to 75
+08:06:16.324 Shield boosted to 87
+08:06:16.391 Shield boosted to 99
+08:06:16.558 Shield boosted to 111
+08:06:18.059 Vulcan Cannon!
+08:06:26.767 EXTRA LIFE!
+08:06:28.103 Energy boosted to 102
+08:06:28.620 Shield boosted to 83
+08:06:29.491 Vulcan Ammo!
+08:07:00.102 You already have the Vulcan Cannon!
+08:07:00.102 Vulcan Ammo!
+08:07:54.505 Vulcan Ammo!
+08:08:33.612 You already have the Vulcan Cannon!
+08:08:33.612 Vulcan Ammo!
+08:08:33.995 Quad Lasers!
+08:08:34.028 4 Concussion Missiles!
+08:08:36.731 4 Proximity Bombs!
+08:08:46.273 Energy boosted to 114
+08:08:48.709 Spreadfire Cannon!
+08:08:48.794 Laser boosted to 2
+08:08:48.794 Laser boosted to 3
+08:08:48.794 4 Proximity Bombs!
+08:08:48.794 Laser boosted to 4
+08:08:50.895 Invulnerability!
+08:08:54.117 You cannot open this door.
+08:08:57.837 Plasma Cannon!
+08:09:11.716 Energy boosted to 124
+08:09:14.553 Smart Missile!
+08:09:17.322 Shield boosted to 76
+08:09:20.658 Shield boosted to 88
+08:09:43.815 Concussion Missile selected!
+08:09:44.648 You have no Homing Missiles!
+08:09:48.487 4 Concussion Missiles!
+08:10:37.451 Homing Missile!
+08:11:08.366 Shield boosted to 86
+08:11:27.935 Shield boosted to 98
+08:11:33.958 Concussion Missile!
+08:11:49.607 Shield boosted to 107
+08:12:24.659 Shield boosted to 119
+08:12:31.215 Concussion Missile!
+08:12:31.431 Energy boosted to 27
+08:12:38.740 Shield boosted to 131
+08:12:39.674 Energy boosted to 34
+08:12:40.491 Energy boosted to 46
+08:12:49.401 2 Proximity Bombs!
+08:12:54.639 Energy boosted to 52
+08:13:07.117 Shield boosted to 143
+08:13:23.823 Concussion Missile selected!
+08:13:45.322 Homing Missile!
+08:13:48.860 Shield boosted to 154
+08:13:52.013 YELLOW Access granted
+08:14:24.111 Energy boosted to 44
+08:14:25.229 Energy boosted to 56
+08:14:25.480 Energy boosted to 67
+08:14:30.586 4 Homing Missiles!
+08:14:37.491 Shield boosted to 166
+08:15:44.792 4 Concussion Missiles!
+08:15:47.528 Concussion Missile!
+08:17:03.205 Vulcan Cannon selected!
+08:18:29.373 Laser Cannon selected!
+08:18:30.341 You don't have the Fusion Cannon!
+08:18:32.225 Plasma Cannon selected!
+08:19:40.395 Concussion Missile!
+08:19:42.228 Shield boosted to 124
+08:19:43.564 Homing Missile!
+08:19:46.149 4 Concussion Missiles!
+08:19:47.701 Concussion Missile!
+08:19:48.602 Energy boosted to 74
+08:19:52.055 Homing Missile!
+08:19:54.941 Concussion Missile!
+08:19:58.097 Concussion Missile!
+08:19:58.545 Energy boosted to 86
+08:20:30.527 Energy boosted to 91
+08:20:30.527 Cloaking Device!
+08:20:38.336 You already have 10 Homing Missiles!
+08:20:39.619 RED Access granted
+08:20:43.289 You already have 10 Homing Missiles!
+08:20:43.724 Shield boosted to 134
+08:20:43.724 Shield boosted to 146
+08:20:43.724 Energy boosted to 96
+08:20:43.724 Energy boosted to 108
+08:21:35.928 Cloaking Device!
+08:24:41.197 Shield boosted to 142
+08:25:32.695 You already have 10 Homing Missiles!
+08:25:34.397 Concussion Missile selected!
+08:25:36.849 You already have 10 Homing Missiles!
+08:25:38.052 Homing Missile selected!
+08:25:49.262 Homing Missile!
+08:25:59.539 Concussion Missile!
+08:26:01.041 Shield boosted to 89
+08:26:01.691 Shield boosted to 101
+08:26:03.010 Concussion Missile!
+08:26:06.846 Homing Missile!
+08:26:53.376 Hostage rescued!
+08:26:59.700 Hostage rescued!
+08:27:00.916 Shield boosted to 113
+08:27:57.728 Concussion Missile!
+08:27:57.908 You already have 20 Concussion Missiles!
+08:28:19.979 You have escaped the mine!
+08:28:19.985 Exiting the mine!
+08:28:31.975 EXTRA LIFE!
+08:29:18.437 You cannot open this door.
+08:29:22.141 Energy boosted to 84
+08:29:28.669 Energy boosted to 92
+08:29:29.232 You already have 20 Concussion Missiles!
+08:29:30.299 Energy boosted to 104
+08:29:37.073 Energy boosted to 116
+08:29:44.116 You already have the Vulcan Cannon!
+08:29:44.116 Vulcan Ammo!
+08:29:48.401 Shield boosted to 50
+08:29:48.586 Your Laser is maxed out!
+08:29:48.586 Energy boosted to 117
+08:30:50.146 You cannot open this door.
+08:30:50.880 Energy boosted to 97
+08:31:03.594 Energy boosted to 109
+08:31:04.043 Energy boosted to 121
+08:31:42.965 Energy boosted to 112
+08:31:46.586 Shield boosted to 23
+08:31:50.556 Energy boosted to 120
+08:31:51.106 Energy boosted to 132
+08:32:04.804 Ship destroyed!
+08:32:12.345 Cloaking Device!
+08:32:19.469 You already are Cloaked!
+08:32:21.354 Laser boosted to 2
+08:32:21.670 4 Homing Missiles!
+08:32:21.737 4 Proximity Bombs!
+08:32:21.756 Quad Lasers!
+08:32:21.937 Laser boosted to 3
+08:32:22.021 Concussion Missile!
+08:32:22.304 Vulcan Cannon!
+08:32:22.354 Spreadfire Cannon!
+08:32:22.354 Laser boosted to 4
+08:32:22.404 Concussion Missile!
+08:32:22.404 4 Proximity Bombs!
+08:32:22.655 4 Concussion Missiles!
+08:32:22.672 4 Homing Missiles!
+08:32:22.672 Smart Missile!
+08:32:22.672 Plasma Cannon!
+08:32:24.023 Homing Missile selected!
+08:32:28.295 Energy boosted to 112
+08:33:09.201 Energy boosted to 64
+08:33:10.553 Concussion Missile!
+08:33:13.640 Energy boosted to 76
+08:33:14.173 Energy boosted to 88
+08:33:30.090 Energy boosted to 91
+08:33:35.631 Shield boosted to 87
+08:33:38.664 Energy boosted to 103
+08:33:42.004 Energy boosted to 115
+08:33:58.850 Concussion Missile!
+08:34:13.148 2 Concussion Missiles!
+08:34:21.807 You already have 20 Concussion Missiles!
+08:34:27.079 Energy boosted to 92
+08:34:28.497 You already have the Vulcan Cannon!
+08:34:28.497 Vulcan Ammo!
+08:34:38.741 Shield boosted to 58
+08:34:39.274 Energy boosted to 97
+08:34:40.293 2 Proximity Bombs!
+08:34:42.895 You already have 20 Concussion Missiles!
+08:34:50.449 Game saved

@@ -89,7 +89,7 @@ mouselook=0
 [end]
 [graphics]
 alphaeffects=0
-dynlightcolor=0
+dynlightcolor=1
 [end]
 [plx version]
 plx version=0.61.0
